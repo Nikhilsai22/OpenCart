@@ -1,0 +1,198 @@
+# Created at 2026-04-16T19:29:38.739
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream 'log4net: Creating repository for assembly [TLSharedComponents, Version=18.4.0.0, Culture=neutral, PublicKeyToken=9fb98f28f9511ae8]'.
+
+# Created at 2026-04-16T19:29:38.743
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream 'log4net: Assembly [TLSharedComponents, Version=18.4.0.0, Culture=neutral, PublicKeyToken=9fb98f28f9511ae8] Loaded From [C:\Program Files\TITUS\TITUS Classification for Desktop\TLSharedComponents.dll]'.
+
+# Created at 2026-04-16T19:29:38.749
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream 'log4net: Assembly [TLSharedComponents, Version=18.4.0.0, Culture=neutral, PublicKeyToken=9fb98f28f9511ae8] does not have a RepositoryAttribute specified.'.
+
+# Created at 2026-04-16T19:29:38.753
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream 'log4net: Assembly [TLSharedComponents, Version=18.4.0.0, Culture=neutral, PublicKeyToken=9fb98f28f9511ae8] using repository [log4net-default-repository] and repository type [log4net.Repository.Hierarchy.Hierarchy]'.
+
+# Created at 2026-04-16T19:29:38.756
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream 'log4net: repository [log4net-default-repository] already exists, using repository type [log4net.Repository.Hierarchy.Hierarchy]'.
+
+# Created at 2026-04-16T19:29:38.758
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream 'log4net: configuring repository [log4net-default-repository] using file [C:\Program Files\TITUS\TITUS Classification for Desktop\Titus.ShellExtension.dll.config] watching for file updates'.
+
+# Created at 2026-04-16T19:29:38.761
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream 'log4net: configuring repository [log4net-default-repository] using file [C:\Program Files\TITUS\TITUS Classification for Desktop\Titus.ShellExtension.dll.config]'.
+
+# Created at 2026-04-16T19:29:38.764
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream 'log4net: configuring repository [log4net-default-repository] using stream'.
+
+# Created at 2026-04-16T19:29:38.767
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream 'log4net: loading XML configuration'.
+
+# Created at 2026-04-16T19:29:38.770
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream 'log4net: Configuring Repository [log4net-default-repository]'.
+
+# Created at 2026-04-16T19:29:38.773
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream 'log4net: Configuration update mode [Merge].'.
+
+# Created at 2026-04-16T19:29:38.775
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream 'log4net: Logger [root] Level string is [WARN].'.
+
+# Created at 2026-04-16T19:29:38.778
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream 'log4net: Logger [root] level set to [name="WARN",value=60000].'.
+
+# Created at 2026-04-16T19:29:38.781
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream 'log4net: Loading Appender [RollingFileAppender] type: [log4net.Appender.RollingFileAppender]'.
+
+# Created at 2026-04-16T19:29:38.784
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream 'log4net: Setting Property [File] to String value [C:\Users\tummala.nikhilsai\AppData\Roaming\\Titus Labs\\ClassificationForDesktop.log]'.
+
+# Created at 2026-04-16T19:29:38.787
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream 'log4net: Setting Property [AppendToFile] to Boolean value [True]'.
+
+# Created at 2026-04-16T19:29:38.790
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream 'log4net: Setting Property [RollingStyle] to RollingMode value [Size]'.
+
+# Created at 2026-04-16T19:29:38.793
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream 'log4net: Setting Property [MaximumFileSize] to String value [1024KB]'.
+
+# Created at 2026-04-16T19:29:38.796
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream 'log4net: Setting Property [MaxSizeRollBackups] to Int32 value [5]'.
+
+# Created at 2026-04-16T19:29:38.799
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream 'log4net: Setting Property [StaticLogFileName] to Boolean value [True]'.
+
+# Created at 2026-04-16T19:29:38.802
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream 'log4net: Converter [message] Option [] Format [min=-1,max=2147483647,leftAlign=False]'.
+
+# Created at 2026-04-16T19:29:38.804
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream 'log4net: Converter [newline] Option [] Format [min=-1,max=2147483647,leftAlign=False]'.
+
+# Created at 2026-04-16T19:29:38.807
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream 'log4net: Setting Property [ConversionPattern] to String value [%date [%2thread] %-5level %-70logger - %message%newline]'.
+
+# Created at 2026-04-16T19:29:38.810
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream 'log4net: Converter [date] Option [] Format [min=-1,max=2147483647,leftAlign=False]'.
+
+# Created at 2026-04-16T19:29:38.812
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream 'log4net: Converter [literal] Option [ [] Format [min=-1,max=2147483647,leftAlign=False]'.
+
+# Created at 2026-04-16T19:29:38.816
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream 'log4net: Converter [thread] Option [] Format [min=2,max=2147483647,leftAlign=False]'.
+
+# Created at 2026-04-16T19:29:38.819
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream 'log4net: Converter [literal] Option [] ] Format [min=-1,max=2147483647,leftAlign=False]'.
+
+# Created at 2026-04-16T19:29:38.823
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream 'log4net: Converter [level] Option [] Format [min=5,max=2147483647,leftAlign=True]'.
+
+# Created at 2026-04-16T19:29:38.826
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream 'log4net: Converter [literal] Option [ ] Format [min=-1,max=2147483647,leftAlign=False]'.
+
+# Created at 2026-04-16T19:29:38.828
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream 'log4net: Converter [logger] Option [] Format [min=70,max=2147483647,leftAlign=True]'.
+
+# Created at 2026-04-16T19:29:38.832
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream 'log4net: Converter [literal] Option [ - ] Format [min=-1,max=2147483647,leftAlign=False]'.
+
+# Created at 2026-04-16T19:29:38.835
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream 'log4net: Converter [message] Option [] Format [min=-1,max=2147483647,leftAlign=False]'.
+
+# Created at 2026-04-16T19:29:38.838
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream 'log4net: Converter [newline] Option [] Format [min=-1,max=2147483647,leftAlign=False]'.
+
+# Created at 2026-04-16T19:29:38.841
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream 'log4net: Setting Property [Layout] to object [log4net.Layout.PatternLayout]'.
+
+# Created at 2026-04-16T19:29:38.844
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream 'log4net: Searched for existing files in [C:\Users\tummala.nikhilsai\AppData\Roaming\Titus Labs]'.
+
+# Created at 2026-04-16T19:29:38.847
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream 'log4net: curSizeRollBackups starts at [0]'.
+
+# Created at 2026-04-16T19:29:38.850
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream 'log4net: Opening file for writing [C:\Users\tummala.nikhilsai\AppData\Roaming\Titus Labs\ClassificationForDesktop.log] append [True]'.
+
+# Created at 2026-04-16T19:29:38.853
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream 'log4net: Created Appender [RollingFileAppender]'.
+
+# Created at 2026-04-16T19:29:38.856
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream 'log4net: Adding appender named [RollingFileAppender] to logger [root].'.
+
+# Created at 2026-04-16T19:29:38.859
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream 'log4net: Hierarchy Threshold []'.
+
+# Created at 2026-04-16T19:29:38.861
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream 'log4net: Creating repository for assembly [Titus.Runtime.ForDesktop, Version=18.4.0.0, Culture=neutral, PublicKeyToken=2bc1baf225f4126d]'.
+
+# Created at 2026-04-16T19:29:38.865
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream 'log4net: Assembly [Titus.Runtime.ForDesktop, Version=18.4.0.0, Culture=neutral, PublicKeyToken=2bc1baf225f4126d] Loaded From [C:\Program Files\TITUS\TITUS Classification for Desktop\Titus.Runtime.ForDesktop.dll]'.
+
+# Created at 2026-04-16T19:29:38.868
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream 'log4net: Assembly [Titus.Runtime.ForDesktop, Version=18.4.0.0, Culture=neutral, PublicKeyToken=2bc1baf225f4126d] does not have a RepositoryAttribute specified.'.
+
+# Created at 2026-04-16T19:29:38.872
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream 'log4net: Assembly [Titus.Runtime.ForDesktop, Version=18.4.0.0, Culture=neutral, PublicKeyToken=2bc1baf225f4126d] using repository [log4net-default-repository] and repository type [log4net.Repository.Hierarchy.Hierarchy]'.
+
+# Created at 2026-04-16T19:29:39.257
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream 'log4net: repository [log4net-default-repository] already exists, using repository type [log4net.Repository.Hierarchy.Hierarchy]'.
+
+# Created at 2026-04-16T19:29:39.261
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream 'log4net: Creating repository for assembly [Titus.Common, Version=18.4.0.0, Culture=neutral, PublicKeyToken=72570b8aaf3cec2d]'.
+
+# Created at 2026-04-16T19:29:39.264
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream 'log4net: Assembly [Titus.Common, Version=18.4.0.0, Culture=neutral, PublicKeyToken=72570b8aaf3cec2d] Loaded From [C:\Program Files\TITUS\TITUS Classification for Desktop\Titus.Common.dll]'.
+
+# Created at 2026-04-16T19:29:39.269
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream 'log4net: Assembly [Titus.Common, Version=18.4.0.0, Culture=neutral, PublicKeyToken=72570b8aaf3cec2d] does not have a RepositoryAttribute specified.'.
+
+# Created at 2026-04-16T19:29:39.272
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream 'log4net: Assembly [Titus.Common, Version=18.4.0.0, Culture=neutral, PublicKeyToken=72570b8aaf3cec2d] using repository [log4net-default-repository] and repository type [log4net.Repository.Hierarchy.Hierarchy]'.
+
+# Created at 2026-04-16T19:29:39.355
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream 'log4net: repository [log4net-default-repository] already exists, using repository type [log4net.Repository.Hierarchy.Hierarchy]'.
+
+# Created at 2026-04-16T19:29:39.359
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream 'log4net: Creating repository for assembly [Titus.Runtime, Version=18.4.0.0, Culture=neutral, PublicKeyToken=72570b8aaf3cec2d]'.
+
+# Created at 2026-04-16T19:29:39.361
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream 'log4net: Assembly [Titus.Runtime, Version=18.4.0.0, Culture=neutral, PublicKeyToken=72570b8aaf3cec2d] Loaded From [C:\Program Files\TITUS\TITUS Classification for Desktop\Titus.Runtime.dll]'.
+
+# Created at 2026-04-16T19:29:39.367
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream 'log4net: Assembly [Titus.Runtime, Version=18.4.0.0, Culture=neutral, PublicKeyToken=72570b8aaf3cec2d] does not have a RepositoryAttribute specified.'.
+
+# Created at 2026-04-16T19:29:39.371
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream 'log4net: Assembly [Titus.Runtime, Version=18.4.0.0, Culture=neutral, PublicKeyToken=72570b8aaf3cec2d] using repository [log4net-default-repository] and repository type [log4net.Repository.Hierarchy.Hierarchy]'.
+
+# Created at 2026-04-16T19:29:42.891
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream 'log4net: repository [log4net-default-repository] already exists, using repository type [log4net.Repository.Hierarchy.Hierarchy]'.
+
+# Created at 2026-04-16T19:29:42.894
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream 'log4net: Creating repository for assembly [Titus.Domain.Types, Version=18.4.0.0, Culture=neutral, PublicKeyToken=72570b8aaf3cec2d]'.
+
+# Created at 2026-04-16T19:29:42.896
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream 'log4net: Assembly [Titus.Domain.Types, Version=18.4.0.0, Culture=neutral, PublicKeyToken=72570b8aaf3cec2d] Loaded From [C:\Program Files\TITUS\TITUS Classification for Desktop\Titus.Domain.Types.dll]'.
+
+# Created at 2026-04-16T19:29:42.900
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream 'log4net: Assembly [Titus.Domain.Types, Version=18.4.0.0, Culture=neutral, PublicKeyToken=72570b8aaf3cec2d] does not have a RepositoryAttribute specified.'.
+
+# Created at 2026-04-16T19:29:42.904
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream 'log4net: Assembly [Titus.Domain.Types, Version=18.4.0.0, Culture=neutral, PublicKeyToken=72570b8aaf3cec2d] using repository [log4net-default-repository] and repository type [log4net.Repository.Hierarchy.Hierarchy]'.
+
+# Created at 2026-04-16T19:29:43.332
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream 'log4net: repository [log4net-default-repository] already exists, using repository type [log4net.Repository.Hierarchy.Hierarchy]'.
+
+# Created at 2026-04-16T19:29:43.336
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream 'log4net: Creating repository for assembly [Titus.Plugin.Interface, Version=18.4.0.0, Culture=neutral, PublicKeyToken=481faee37bc95c9e]'.
+
+# Created at 2026-04-16T19:29:43.339
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream 'log4net: Assembly [Titus.Plugin.Interface, Version=18.4.0.0, Culture=neutral, PublicKeyToken=481faee37bc95c9e] Loaded From [C:\Program Files\TITUS\TITUS Classification for Desktop\Titus.Plugin.Interface.dll]'.
+
+# Created at 2026-04-16T19:29:43.342
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream 'log4net: Assembly [Titus.Plugin.Interface, Version=18.4.0.0, Culture=neutral, PublicKeyToken=481faee37bc95c9e] does not have a RepositoryAttribute specified.'.
+
+# Created at 2026-04-16T19:29:43.345
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream 'log4net: Assembly [Titus.Plugin.Interface, Version=18.4.0.0, Culture=neutral, PublicKeyToken=481faee37bc95c9e] using repository [log4net-default-repository] and repository type [log4net.Repository.Hierarchy.Hierarchy]'.
+
+# Created at 2026-04-16T19:29:43.787
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream 'log4net: repository [log4net-default-repository] already exists, using repository type [log4net.Repository.Hierarchy.Hierarchy]'.
+
+# Created at 2026-04-16T19:29:45.144
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream 'log4net: Shutdown called on Hierarchy [log4net-default-repository]'.
+
